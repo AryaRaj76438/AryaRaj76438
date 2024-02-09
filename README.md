@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajneesh (Arya Raj) Kumar</h1>
 <h3 align="center">A passionate Android App Developer</h3>
-
+<img align="right" alt = "Coding" width="400" src = "https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 - 🌱 I’m currently learning **Quantum Computing, Android Development**
 
 - 📫 How to reach me **192125aryaraj@gmail.com**
