@@ -19,7 +19,7 @@ As a tech enthusiast, I'm constantly on the lookout for innovative domains to ex
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryaraj76438&show_icons=true&locale=en" alt="aryaraj76438" /></p>
 
 ## 🌐 Socials:
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AryaRaj76438&label=Profile%20views&color=0e75b6&style=flat" alt="AryaRaj76438" /> </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/aryaraj76438/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
