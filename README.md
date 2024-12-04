@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajneesh (Arya Raj) Kumar</h1>
-<h3 align="center">A passionate Android App Developer</h3>
+<h3 align="center"> -: Student of Engineering Physics :- </h3>
 
-- 🌱 I’m currently learning **Quantum Computing, Android Development**
+- 🌱 I’m currently learning **Quantum Computing, Android Development, Photonics**
 
 - 📫 How to reach me **192125aryaraj@gmail.com**
 - Rajneesh Kumar! 👋 I'm a dedicated B.Tech student at IIT Guwahati, majoring in Engineering Physics with a minor in Electronics and Communication. My academic journey has honed my expertise in Python, C++, C, Data Structures, and Algorithms.
@@ -44,5 +44,8 @@ As a tech enthusiast, I'm constantly on the lookout for innovative domains to ex
   </a>
   <a href="https://leetcode.com/u/arya_raj_leetcode/" rel="nofollow">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="100" alt="LeetCode 100 Days Badge">
+  </a>
+  <a href="https://leetcode.com/u/arya_raj_leetcode/" rel="nofollow">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="100" alt="LeetCode 100 Days Badge">
   </a>
 </p>
